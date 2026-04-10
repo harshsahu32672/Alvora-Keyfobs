@@ -1,0 +1,14 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"4.7nF","Capacitor SMD 0603","C1","CAP_0603","CAP_0603","1"
+"100nF","Capacitor SMD 0603","C2","CAP_0603","CAP_0603","1"
+"10uF","Capacitor SMD 0603","C3","CAP_0603","CAP_0603","1"
+"TC2050-IDC","Cbl Plug-Of-Nails 10-Pin w/Legs","J1","TAG-CONNECT_TC2050-IDC","TC2050-IDC","1"
+"CR2032-BS-6-1","CR2032 Coin Cell Battery Holder","J2","CR2032","CR2032-BS-6-1","1"
+"FUET-1230_1","","LS1","FUET-1230","FUET-1230_1","1"
+"2N7002NXAKR","MOSFET N-Channel Vds=60V Id=300mA with ESD Protection","Q1","SSM3J338R,LF-SOT23-F","2N7002NXAKR","1"
+"33O","Resistor SMD 0603","R1","RES_0603","RES_0603","1"
+"100O","Resistor SMD 0603","R2","RES_0603","RES_0603","1"
+"150O","Resistor SMD 0603","R3","RES_0603","RES_0603","1"
+"470KO","Resistor SMD 0603","R4","RES_0603","RES_0603","1"
+"DA14531MOD-00F01002","Dialog Bluetooth Low Energy module","U1","XCVR_DA14531MOD-00F01002","DA14531MOD-00F01002","1"
